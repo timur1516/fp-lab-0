@@ -49,6 +49,6 @@
 - Компилятор/интерпретатор: [Clojure 1.12.2](https://clojure.org/releases/downloads#stable)  
 - Система сборки: [Leiningen](https://leiningen.org/)
 - Система автоматического форматирования: [cljfmt](https://github.com/weavejester/cljfmt)  
-- Lint tools: [Eastwood](https://github.com/jonase/eastwood)
+- Lint tools: [Eastwood](https://github.com/jonase/eastwood), [clj-kondo](https://github.com/clj-kondo/clj-kondo)
 - Инструменты тестирования: [clojure.test](https://clojure.github.io/clojure/clojure.test-api.html)
 - Стиль кодирования: [Clojure Style Guide](https://guide.clojure.style/)
